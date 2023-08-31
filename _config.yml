@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shijie LUO's Homepage"
+title                    : "Shijie Luo's Homepage"
 title_separator          : "-"
 name                     : &name "Shijie Luo"
 description              : &description "a PhD student from Tongji University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shijie Luo"
+  name             : "Shijie Luo (骆世杰)"
   avatar           : "sjlaw_profile.png"
   bio              : "A man who refused interviews with The Book of Wealth and The Way to Make Money due to being busy with scientific research."
   location         : "Shanghai, CN"
