@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Shijie Luo"
   avatar           : "sjlaw_profile.png"
-  bio              : "A man who refused interviews with The Book of Wealth and The Way to Make Money due to being busy with scientific research"
+  bio              : "A man who refused interviews with The Book of Wealth and The Way to Make Money due to being busy with scientific research."
   location         : "Shanghai, CN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4nmCZPkAAAAJ"
   email            : "shijielaw@tongji.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Shijie-Luo-2"
@@ -111,11 +111,10 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : "https://www.zhihu.com/people/bu-lai-xiao-ke"
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/bu-lai-xiao-ke"
 
 
 # Reading Files
