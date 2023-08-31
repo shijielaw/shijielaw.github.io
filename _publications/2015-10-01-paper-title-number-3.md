@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Dynamic Group Link Prediction in Continuous-Time Interaction Network "
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+permalink: 'https://www.ijcai.org/proceedings/2023/0248.pdf'
+excerpt: 'Recently, group link prediction has received increasing attention due to its important role in analyzing relationships between individuals and groups. However, most existing group link prediction methods emphasize static settings or only make cursory exploitation of historical information, so they fail to obtain good performance in dynamic applications. To this end, we attempt to solve the group link prediction problem in continuoustime dynamic scenes with fine-grained temporal information. We propose a novel continuous-time group link prediction method CTGLP to capture the patterns of future link formation between individuals and groups. A new graph neural network CTGNN is presented to learn the latent representations of individuals by biasedly aggregating neighborhood information. Moreover, we design an importance-based group modeling function to model the embedding of a group based on its known members. CTGLP eventually learns a probability distribution and predicts the link target. Experimental results on various datasets with and without unseen nodes show that CTGLP outperforms the state-of-the-art methods by 13.4% and 13.2% on average.'
+date: 2023-0101
+venue: 'Macao, CN'
+paperurl: '(http://shijielaw.github.io/files/paper1_CTGLP.pdf)'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://shijielaw.github.io/files/paper1_CTGLP.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Shijie Luo, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In <i>Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence(IJCAI23)<i>. Pages 2233-2241, doi: 10.24963/ijcai.2023/248.
