@@ -12,4 +12,4 @@ citation:
 
 <b>Citation:</b> Shijie Luo, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In <i>Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23)</i>. Pages 2233-2241, doi: 10.24963/ijcai.2023/248. 
 
-Download this paper [here](https://www.ijcai.org/proceedings/2023/0248.pdf). You can also find this paper in [IJCAI23 webpage](https://www.ijcai.org/proceedings/2023/248).
+Download this paper [here](https://github.com/shijielaw/shijielaw.github.io/blob/master/files/paper1_CTGLP.pdf). You can also find this paper in [IJCAI23 webpage](https://www.ijcai.org/proceedings/2023/248).
