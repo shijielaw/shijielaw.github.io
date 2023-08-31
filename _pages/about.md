@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student from [School of Software Engineering](https://sse.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/). My main research interest includes Graph Machine Learning, Deep Reinforcement Learning, Uncertainty Quantification and Optimization. During my master, my research focused on Graph Data Mining, Link Prediction and Group Link Prediction. My daily hobbies are swimming, playing basketball, fishing and reading with Ari Ma.
+I am a PhD student from [School of Software Engineering](https://sse.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/). My main research interest includes graph machine learning, deep reinforcement learning, uncertainty quantification and optimization. During my master, my research focused on graph data mining, link prediction and group link prediction. My daily hobbies are swimming, playing basketball, fishing and reading with Ari Ma.
 
 
 Education
@@ -20,7 +20,7 @@ Education
 
 Publication
 ------
-* <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23). Pages 2233-2241, doi: 10.24963/ijcai.2023/248. [\[Publication\]](https://www.ijcai.org/proceedings/2023/248) [\[PDF\]](https://github.com/shijielaw/shijielaw.github.io/tree/master/files/paper1_CTGLP.pdf)
+* <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23). Pages 2233-2241, doi: 10.24963/ijcai.2023/248. [\[Link\]](https://www.ijcai.org/proceedings/2023/248) [\[PDF\]](https://github.com/shijielaw/shijielaw.github.io/tree/master/files/paper1_CTGLP.pdf)
  [\[PPT\]](https://github.com/shijielaw/shijielaw.github.io/tree/master/files/paper1_CTGLP.pptx)
 
 
