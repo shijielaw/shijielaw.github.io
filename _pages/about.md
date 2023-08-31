@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student from [School of Software Enginerring](https://sse.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/). My main research interest includes graph machine learning, deep reinforcement learning, uncerntainty quantification and optimization. During my master, my research focused on graph data mining, link prediction and group link prediction.
+I am a PhD student from [School of Software Engineering](https://sse.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/). My main research interest includes graph machine learning, deep reinforcement learning, uncerntainty quantification and optimization. During my master, my research focused on graph data mining, link prediction and group link prediction.
 
 
 
