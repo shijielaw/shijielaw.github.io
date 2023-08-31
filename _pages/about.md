@@ -20,5 +20,5 @@ Education
 
 Publication
 ------
-* <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23). Pages 2233-2241, doi: 10.24963/ijcai.2023/248.
+* <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23). Pages 2233-2241, doi: 10.24963/ijcai.2023/248. [\[Paper\]](https://www.ijcai.org/proceedings/2023/248)
 
