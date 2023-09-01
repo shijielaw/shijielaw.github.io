@@ -19,8 +19,8 @@ Work experience
 ======
 * Fall 2022 - Summer 2023: Research Assistant
   * Xidian University
-  * Duties included: Revising manuscript etc.
   * Supervisor: Professor Li
+  * Duties included: conducting experiments, collecting data, and analyzing results, etc.
 
   
 Skills
