@@ -18,10 +18,11 @@ Education
 * Ph.D in Software Engineering, [Tongji University](https://www.tongji.edu.cn/) , 2023/09 - 2027/06 (expected).
 
 
-Work experience
+
+Work Experience
 ------
 * Fall 2022 - Summer 2023: Research Assistant
-  * Xidian University
+  * In: Xidian University
   * Supervisor: Professor Li
   * Duties included: conducting experiments, collecting data, and analyzing results, etc.
   
