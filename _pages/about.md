@@ -18,6 +18,15 @@ Education
 * Ph.D in Software Engineering, [Tongji University](https://www.tongji.edu.cn/) , 2023/09 - 2027/06 (expected).
 
 
+Work experience
+------
+* Fall 2022 - Summer 2023: Research Assistant
+  * Xidian University
+  * Supervisor: Professor Li
+  * Duties included: conducting experiments, collecting data, and analyzing results, etc.
+  
+
+
 Publication
 ------
 * <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23). Pages 2233-2241, doi: 10.24963/ijcai.2023/248. [\[LINK\]](https://www.ijcai.org/proceedings/2023/248) [\[PDF\]](https://github.com/shijielaw/shijielaw.github.io/tree/master/files/paper1_CTGLP.pdf)
