@@ -30,7 +30,7 @@ Work Experience
 
 Publication
 ------
-* <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23). Pages 2233-2241, doi: 10.24963/ijcai.2023/248. [\[LINK\]](https://www.ijcai.org/proceedings/2023/248) [\[PDF\]](https://github.com/shijielaw/shijielaw.github.io/tree/master/files/paper1_CTGLP.pdf)
+* <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23). Pages 2233-2241, doi: 10.24963/ijcai.2023/248. [\[LINK\]](https://www.ijcai.org/proceedings/2023/248) [\[PDF\]](https://github.com/shijielaw/shijielaw.github.io/tree/master/files/CTGLP-ijcai23.pdf)
  [\[PPT\]](https://github.com/shijielaw/shijielaw.github.io/tree/master/files/paper1_CTGLP.pptx)
 
 
