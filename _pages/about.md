@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student from [School of Software Engineering](https://sse.tongji.edu.cn/English_edition/Home.htm), [Tongji University](https://en.tongji.edu.cn/p/#/). My main research interest includes graph machine learning and large language models. In master period, my research focused on graph data mining, link prediction and group link prediction. My daily hobbies are swimming, playing basketball, fishing and reading with Ari Ma.
+I am a Ph.D candidate from [School of Software Engineering](https://sse.tongji.edu.cn/English_edition/Home.htm), [Tongji University](https://en.tongji.edu.cn/p/#/). My main research interest includes knowledge graphs, large language models and uncertainty qunatification. In master period, my research focused on graph data mining, link prediction and group link prediction.
 
 
 Education
