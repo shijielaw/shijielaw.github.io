@@ -3,7 +3,7 @@ title: "Group Link Prediction in Bipartite Graphs with Graph Neural Networks "
 collection: publications
 permalink: /publications/2024_BiGLP
 excerpt: 'Authors: <u>Shijie Luo</u>, He Li, Jianbin Huang, Xiaoke Ma, Jiangtao Cui, Shaojie Qiao and Jaesoo Yoo.'
-date: 2014-04-18 11:30:00 +0800
+date: 2025-02-01
 venue: 'Pattern Recognition'
 paperurl: https://www.sciencedirect.com/science/article/pii/S0031320324007283
 citation:
