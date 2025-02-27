@@ -13,9 +13,9 @@ I'm a PhD student in Software Engineering from [School of Computer Science and T
 
 Education
 ------
-* B.S. in Software Engineering, [Guangdong University of Technology](https://www.gdut.edu.cn/) , 2015/09 - 2019/06.
-* M.S. in Software Engineering, [Xidian University](https://www.xidian.edu.cn/) , 2019/09 - 2022/06.
 * Ph.D in Software Engineering, [Tongji University](https://www.tongji.edu.cn/) , 2023/09 - 2027/06 (expected).
+* M.S. in Software Engineering, [Xidian University](https://www.xidian.edu.cn/) , 2019/09 - 2022/06.
+* B.S. in Software Engineering, [Guangdong University of Technology](https://www.gdut.edu.cn/) , 2015/09 - 2019/06.
 
 
 
