@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023_CTGLP
 excerpt: 'Authors: <u>Shijie Luo</u>, He Li and Jianbin Huang.'
 date: 2023-08-19
-venue: 'Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23)'
+venue: 'Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI2023)'
 paperurl: https://www.ijcai.org/proceedings/2023/248
 citation:
 ---

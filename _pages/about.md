@@ -32,11 +32,14 @@ Publications
 ------
 **Accpeted in 2025:**
 <br>
-* pending...
+* <b>Shijie Luo</b>, Xinyuan Lu, Qinpei Zhao and Weixiong Rao. 2025. Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering . <i>Proceedings of the 34th ACM International Conference on
+  Information and Knowledge Management (CIKM ’25)</i>. 5 Pages, doi: [10.1145/3746252.3760973](https://doi.org/10.1145/3746252.3760973).
 
 **Accpeted in 2024:**
 <br>
+
 * <b>Shijie Luo</b>, He Li, Jianbin Huang, Xiaoke Ma, Jiangtao Cui, Shaojie Qiao and Jaesoo Yoo. 2025. Group Link Prediction in Bipartite Graphs with Graph Neural Networks. <i>Pattern Recognition</i>. Pages 110977, doi: [10.1016/j.patcog.2024.110977](https://doi.org/10.1016/j.patcog.2024.110977).
 
 **Accpeted in 2023:**
-* <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In <i>Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI23)</i>. Pages 2233-2241, doi: [10.24963/ijcai.2023/248](https://doi.org/10.24963/ijcai.2023/248).
+
+* <b>Shijie Luo</b>, He Li and Jianbin Huang. 2023. Dynamic Group Link Prediction in Continuous-Time Interaction Network. In <i>Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence (IJCAI'23)</i>. Pages 2233-2241, doi: [10.24963/ijcai.2023/248](https://doi.org/10.24963/ijcai.2023/248).
