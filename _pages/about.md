@@ -32,7 +32,9 @@ Publications
 ------
 **Accpeted in 2025:**
 <br>
-* <b>Shijie Luo</b>, Xinyuan Lu, Qinpei Zhao and Weixiong Rao. 2025. Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering . <i>Proceedings of the 34th ACM International Conference on
+
+* <b>Shijie Luo</b>, Xinyuan Lu, Qinpei Zhao and Weixiong Rao. 2026. Combining Structural and Textual Knowledge for Knowledge Graph Link Prediction via Large Language Models. <i>The 19th ACM International Conference on Web Search and Data Mining (WSDM ’26)</i>. 10 Pages, doi: xxx.
+* <b>Shijie Luo</b>, Xinyuan Lu, Qinpei Zhao and Weixiong Rao. 2025. Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering. <i>Proceedings of the 34th ACM International Conference on
   Information and Knowledge Management (CIKM ’25)</i>. 5 Pages, doi: [10.1145/3746252.3760973](https://doi.org/10.1145/3746252.3760973).
 
 **Accpeted in 2024:**
