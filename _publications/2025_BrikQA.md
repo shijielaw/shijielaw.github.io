@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025_BrikQA
 excerpt: 'Authors: <u>Shijie Luo</u>, Xinyuan Lu, Qinpei Zhao and Weixiong Rao.'
 date: 2025-08-06
-venue: 'Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)'
+venue: 'Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM ’25)'
 paperurl: https://doi.org/10.1145/3746252.3760973
 citation:
 ---
