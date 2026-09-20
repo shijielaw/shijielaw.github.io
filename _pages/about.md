@@ -41,7 +41,6 @@ Publications
 * Xinyuan Lu, <b>Shijie Luo</b>, Qinpei Zhao, Weixiong Rao. GT-RAG: Knowledge Graph-based Retrieval-Augmented Generation for Multi-hop Question Answering. <i>Proceedings of the 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD ’26)</i>. Pages 4369-4374, doi: [10.1109/CSCWD68734.2026.11582056](https://doi.org/10.1109/CSCWD68734.2026.11582056).
 
 * <b>Shijie Luo</b>, Xinyuan Lu, Qinpei Zhao and Weixiong Rao. 2026. Combining Structural and Textual Knowledge for Knowledge Graph Link Prediction via Large Language Models. <i>The 19th ACM International Conference on Web Search and Data Mining (WSDM ’26)</i>. Pages 479-488, doi: [10.1145/3773966.3777934](https://doi.org/10.1145/3773966.3777934).
-* 
 * <b>Shijie Luo</b>, Xinyuan Lu, Qinpei Zhao and Weixiong Rao. 2025. Bridging the Gap between Knowledge Graphs and LLMs for Multi-hop Question Answering. <i>Proceedings of the 34th ACM International Conference on
   Information and Knowledge Management (CIKM ’25)</i>. Pages 5006-5010, doi: [10.1145/3746252.3760973](https://doi.org/10.1145/3746252.3760973).
 
